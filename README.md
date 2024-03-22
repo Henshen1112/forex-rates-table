@@ -1,5 +1,8 @@
 # forex-rates-table
 
+## Installation
+1. Clone the repository:
+
 # Usage
 1. Open the index.html file in your web browser.
 2. The forex rates table will be displayed with the rates retrieved from the Fixer API.
